@@ -1,2 +1,3 @@
 ## Мои навыки:
-<img src="https://www.google.com/url?q=https://platform.kodland.org/ru/task_96337/&sa=D&source=editors&ust=1747422319474877&usg=AOvVaw1AutfJLLQ9cVRxavxuMJNy" width="10%">
+<img src="![image](https://github.com/user-attachments/assets/30841bab-8af7-44af-a867-01bc2a2f7989)
+" width="10%">
